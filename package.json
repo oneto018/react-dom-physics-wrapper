@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "spectacle-scripts": "2.0.1"
+    "@inlet/react-pixi": "^0.4.1",
+    "matter-js": "^0.14.2",
+    "pixi.js": "^4.8.2",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
   },
   "scripts": {
     "start": "react-scripts start",

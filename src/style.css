@@ -1,0 +1,37 @@
+.container{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	color: #fff;
+}
+
+.container .el{
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.container .box{
+	background-color: blue;
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	overflow: hidden;
+	
+	
+	
+}
+
+.container .bullet{
+	background-color: red;
+	border-radius: 4px;
+}
+
+.container .ground{
+	background-color: brown;
+	color:blue;
+	text-transform: uppercase;
+	text-decoration: underline;
+	
+}
